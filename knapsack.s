@@ -1,4 +1,4 @@
-
+#Author: Davey Jay Belliss
 .global knapsack
 
 knapsack:
